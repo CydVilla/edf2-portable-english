@@ -1,0 +1,142 @@
+{
+  "EDF-BASE/TITLE_SELECT.TM2": {
+    "png": "start_menu.png",
+    "sha256": "a8dcb800e64fc6ea2e17768314cead12ef05792f5f11bea00ec4eed11a5cca9d",
+    "colors": 256
+  },
+  "EDF-BASE/TITLE_ALL.TM2": {
+    "png": "menu_tabs.png",
+    "sha256": "9258418e229231e9dcb9b04cd4fb5c7588259997028adef87dec3421ec662b86",
+    "colors": 48
+  },
+  "EDF-BASE/BAR_BACK_TITLE.TM2": {
+    "png": "back_to_title.png",
+    "sha256": "074c5954e8fae432de2149b3ae2bed9b902e4b3f3442653154d70038851e7d46",
+    "colors": 64
+  },
+  "EDF-BASE/BAR_CHOICE_EQUIP.TM2": {
+    "png": "class_equipment.png",
+    "sha256": "0118016814d4275947872f62de29d543fb74944b724f89816afd3b068d846e93",
+    "colors": 64
+  },
+  "EDF-BASE/BAR_COMMUNICATE.TM2": {
+    "png": "multiplayer.png",
+    "sha256": "3100d4b9fb61bae2f11022ae12d4018182089b46bcb4d02547e63ef47e8e8397",
+    "colors": 64
+  },
+  "EDF-BASE/BAR_GAME_SETTING.TM2": {
+    "png": "settings.png",
+    "sha256": "32f1df50c33d380df5d460da2ed088e091ccec348ebbd922f70aa1d975e68046",
+    "colors": 64
+  },
+  "EDF-BASE/BAR_SAVE.TM2": {
+    "png": "save.png",
+    "sha256": "496ab6f739730090747c6b456a5cdbf3c2fbe33485eff785109b0b935ced2cb5",
+    "colors": 64
+  },
+  "EDF-BASE/BAR_SORTIE.TM2": {
+    "png": "start_mission.png",
+    "sha256": "4b1a615a1c2378bb59078e6491ca3f27af45734540c0faea03002b58df63e781",
+    "colors": 64
+  },
+  "EDF-BASE/DECIDE_CANCEL.TM2": {
+    "png": "button_prompt.png",
+    "sha256": "c7ee9171a3aa297917cf2d9cc8a94540361b027449235b67fc50bffdc3ea7585",
+    "colors": 256
+  },
+  "EDF-BASE/GAME_SETTING.TM2": {
+    "png": "player_options.png",
+    "sha256": "32f30e5806148f336479d58098d8024452b0f525e3377a437345b3f0012c5e89",
+    "colors": 48
+  },
+  "EDF-BASE/FLAME_RETURN_ATTACK.TM2": {
+    "png": "pause_menu.png",
+    "sha256": "af4ef4b4f5cff97d3fb0bc83763914e083fce7d5ff14d528e60cbaccc6e14847",
+    "colors": 32
+  },
+  "EDF-BASE/ASSAULT_RIFLE.TM2": {
+    "png": "tab_assault_rifle.png",
+    "sha256": "53c88c6445df1e1653b63ab08875f46b1201a10ab5fc6d79c6d4c1b5e2420b5c",
+    "colors": 256
+  },
+  "EDF-BASE/GRENADE.TM2": {
+    "png": "tab_grenade.png",
+    "sha256": "5cb92b9c5069ca0b7173d9b709fe2d7678e68d0db45c567a1520af0b31452508",
+    "colors": 256
+  },
+  "EDF-BASE/GUIDED_WEAPON.TM2": {
+    "png": "tab_homing.png",
+    "sha256": "002bc6ae014c068c6b42837956f180a9ad912b917b44caf2ac383d0b4b42dabb",
+    "colors": 256
+  },
+  "EDF-BASE/INTERMEDIATE_RANGE_PARTICLE.TM2": {
+    "png": "tab_mid_range_particle_cannon.png",
+    "sha256": "068b96753548cd518a6a3650b2d0734a9374870f4f0031b1828b0580d38c53c6",
+    "colors": 256
+  },
+  "EDF-BASE/INTERMEDIATE_RANGE_WEAPON.TM2": {
+    "png": "tab_midrange_electric.png",
+    "sha256": "ea626896c697736ccb5125a5067ae1ab0abc7bebf8dad39f5ea1b7adac8eb493",
+    "colors": 256
+  },
+  "EDF-BASE/LOCKET_LAUNCHER.TM2": {
+    "png": "tab_rocket_launcher.png",
+    "sha256": "112747ec3d698d05fe56d019f6437a9baf2fe34805877efe31471d8fe34c0c83",
+    "colors": 256
+  },
+  "EDF-BASE/MISSILE.TM2": {
+    "png": "tab_missile.png",
+    "sha256": "03fa17d08c873fbbdfe16349fa5bc5f2ab2805936499934efa915b12a6dddae7",
+    "colors": 256
+  },
+  "EDF-BASE/SCOPE_WEAPON.TM2": {
+    "png": "tab_wide_range.png",
+    "sha256": "996d1ac0d4986f182dc898527638281e36fff37f505e1ca7c28a78ab6fa009bd",
+    "colors": 256
+  },
+  "EDF-BASE/SHORT_RANGE_LASER.TM2": {
+    "png": "tab_midrange_laser.png",
+    "sha256": "54619bdbee1c6897b8499ca65f5edb234240ee58e0f4081453facee1fd230a2d",
+    "colors": 256
+  },
+  "EDF-BASE/SHORT_RANGE_WEAPON.TM2": {
+    "png": "tab_close_combat.png",
+    "sha256": "fb128f45f3374194c2d1e2b309c1f5832c6005ac0142cd3cd00daf9d0d87e1b3",
+    "colors": 256
+  },
+  "EDF-BASE/SHOTGUN.TM2": {
+    "png": "tab_shotgun.png",
+    "sha256": "abe72ddf428d067fd91c2f7dba69dde7648e2a5ad7563aa95d5f9141c14e4a67",
+    "colors": 256
+  },
+  "EDF-BASE/SNIPER.TM2": {
+    "png": "tab_sniper_rifle.png",
+    "sha256": "249860be730bcd250d237358faee37c484ad436d586b7fd7ff4c2ca8cd2230cf",
+    "colors": 256
+  },
+  "EDF-BASE/SNIPER_WEAPON.TM2": {
+    "png": "tab_sniping.png",
+    "sha256": "8d9fda7845adfa71367d2e28423706f1906e36562a887ae7e2d75fe1b2ab5fa5",
+    "colors": 256
+  },
+  "EDF-BASE/SPECIAL_WEAPON.TM2": {
+    "png": "tab_special.png",
+    "sha256": "5c6d073ccb31448c72e487504a37a1ba6a376225ada4a9f5db6309cb4eaa852f",
+    "colors": 256
+  },
+  "EDF-BASE/SUPPORT_WEAPON.TM2": {
+    "png": "tab_support.png",
+    "sha256": "73101c20fdfcf28c73561378ac08d8c3602393c5e7c37b2df1bb2dfaecc00f3a",
+    "colors": 256
+  },
+  "SYS/DIFFICULTY.TM2": {
+    "png": "difficulty.png",
+    "sha256": "00d1a84a9f1476b85fe5d7f4acd3882ee3368ddef97ffb4e4ed350714d00e70e",
+    "colors": 32
+  },
+  "SYS/PLAY_TIME.TM2": {
+    "png": "main_menu_playtime.png",
+    "sha256": "518f0949a524ae008039126686b7e4e58461073c2cebe94115d1e05b1e3ef0b8",
+    "colors": 256
+  }
+}

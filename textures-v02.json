@@ -1,0 +1,64 @@
+{
+  "EDF-BASE/WORD_01.TM2": {
+    "png": "class_name.png",
+    "sha256": "8536c05d78ccd8f2e5806e6d8613c495ea33a70bc87b42606d36f9274df9faa4",
+    "colors": 256
+  },
+  "EDF-BASE/EQUIP.TM2": {
+    "png": "choose_equipment.png",
+    "sha256": "53a67b6e43023fba9ed0f03e6c8c0631b8310bddaac17dc3bfd35c6c66230c92",
+    "colors": 256
+  },
+  "EDF-BASE/RESULT.TM2": {
+    "png": "rewards_screen.png",
+    "sha256": "9e7aa8f23babd4460df4f08e92a235b904cf744cc479fb3739e87fa0c65b9538",
+    "colors": 256
+  },
+  "EDF-BASE/EQUIP_COOPERATION.TM2": {
+    "png": "coop_host_equipment_menu.png",
+    "sha256": "16f1f5d4968f7dbe734e5881e537fbfee7a8f1aade934fbb806dd24b98464353",
+    "colors": 256
+  },
+  "EDF-BASE/EQUIP_VERSUS.TM2": {
+    "png": "battleroom_host_rules.png",
+    "sha256": "59dfa8fa3d1feb4ee0c39ada036d3dd07ac66d0915efa0b8fa945878f7382e08",
+    "colors": 256
+  },
+  "EDF-BASE/ROOM.TM2": {
+    "png": "coop_room_waiting.png",
+    "sha256": "edd1a22cd6aa502e5a94ff33a1d79e8521dee5af743d497f0a5629609348a7f8",
+    "colors": 256
+  },
+  "EDF-BASE/ROOM_SELECT.TM2": {
+    "png": "room_select.png",
+    "sha256": "f8a6c5da01008f3fe9b264992321a9896877f6ee66b2a5267327bd79cf529101",
+    "colors": 256
+  },
+  "EDF-BASE/MODE_SELECT.TM2": {
+    "png": "network_game_mode.png",
+    "sha256": "02f38537ddef0419fc5a02bc2b695bf9aa92c7bac96e4c9529e8b2ff927c8942",
+    "colors": 256
+  },
+  "SYS/MESSAGE_WINDOW_01.TM2": {
+    "png": "warning_a.png",
+    "sha256": "34f03154541af6978c9cb1b1f781b65f3b85eecbe025360e5b8f4d534ca5b2b0",
+    "colors": 256,
+    "warning_text": "save"
+  },
+  "SYS/MESSAGE_WINDOW_02.TM2": {
+    "png": "warning_wifi.png",
+    "sha256": "9246b599f2898993aee63e61bd42fdbe1bb38c2fbc5b0fa6f991a9db376e80da",
+    "colors": 256
+  },
+  "SYS/MESSAGE_WINDOW_03.TM2": {
+    "png": "warning_b.png",
+    "sha256": "8ad52753841ef6683e46ae8d9422cb67985b51c220698154f5a21b2a410243eb",
+    "colors": 256,
+    "warning_text": "general"
+  },
+  "SYS/MESSAGE_WINDOW_04.TM2": {
+    "png": "warning_c.png",
+    "sha256": "12f0fe264fc976fcc2441e677fc967b76c25b51f0d58c73f4d9a3bffea843515",
+    "colors": 256
+  }
+}
